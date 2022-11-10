@@ -1,14 +1,15 @@
 ### About Steven Hé (Sīchàng) 🙇🏻‍♂️
 
 - Like:\
-    JavaScript, Markdown, Ruby 💎, Rust 🦀
+    Rust 🦀, Markdown, JavaScript, Ruby 💎
 - Comfortable with:\
-    Cantonese 🇭🇰, English 🇬🇧, HTML, Mandarin 🇨🇳, Python 🐍, Lua ☪️, Racket 🎾, TypeScript
+    Python 🐍, Lua ☪️, Racket 🎾, TypeScript, HTML,\
+    Mandarin 🇨🇳, Cantonese 🇭🇰, English 🇬🇧
 - Have quite a bit of experience with:\
-    C, CSS, Java ☕️, Julia ஃ
+    Julia ஃ, Java ☕️, CSS, C
 - Have some experience with and does not care about:\
-    Bash, Elisp, Fish, Go
+    Fish, Go, Bash, Elisp
 - Have some experience with but does not like:\
-    C++, MATLAB, Mathematica
+    Mathematica, MATLAB, C++
 - Knowns:\
-    R 📐, VimScript
+    VimScript, R 📐
