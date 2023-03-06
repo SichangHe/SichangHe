@@ -11,6 +11,18 @@
     Mandarin 🇨🇳, Cantonese 🇭🇰, English 🇬🇧
 - Have quite a bit of experience with:\
     Julia ஃ, Java ☕️, Elixir 💧, CSS, C
+
+</td>
+<td>
+
+[![Most used languages*][most-used-lang]][most-used-lang]
+
+Fake stats not counting [`learn_program`][learn-program].
+
+</td></tr>
+<tr>
+<td>
+
 - Have some experience with and does not care about:\
     Fish, Go, Bash, Elisp
 - Have some experience with but does not like:\
@@ -21,19 +33,12 @@
 </td>
 <td>
 
-[![Most used languages*][most-used-lang]][most-used-lang]
-
-Fake stats not counting [`learn_program`][learn-program].
-
 [![Most used languages including
 learning][most-used-lang-including-learn]][most-used-lang-including-learn]
 
 Counting [`learn_program`][learn-program].
 
-</td></tr>
-<tr>
-<td></td>
-<td></td>
+</td>
 
 </tr>
 </table>
