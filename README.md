@@ -18,12 +18,13 @@
 - Knowns:
     VimScript, R 📐
 
+Fake "most used languages" stats not counting
+[`learn_program`][learn-program]. ➤
+
 </td>
 <td>
 
 [![Most used languages*][most-used-lang]][most-used-lang]
-
-Fake "most used languages" stats not counting [`learn_program`][learn-program].
 
 </td></tr>
 <tr>
