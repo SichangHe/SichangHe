@@ -1,7 +1,8 @@
 ### About Steven Hé (Sīchàng) 🙇🏻‍♂️
 
-<div style="display: grid; gap: 1em; grid-template-columns: 2fr 1fr;">
-<div>
+<table>
+<tr>
+<td>
 
 - Like:\
     Rust 🦀, Markdown, JavaScript, Ruby 💎
@@ -17,8 +18,8 @@
 - Knowns:\
     VimScript, R 📐
 
-</div>
-<div>
+</td>
+<td>
 
 [![Most used languages*][most-used-lang]][most-used-lang]
 
@@ -29,8 +30,13 @@ learning][most-used-lang-including-learn]][most-used-lang-including-learn]
 
 Counting [`learn_program`][learn-program].
 
-</div>
-</div>
+</td></tr>
+<tr>
+<td></td>
+<td></td>
+
+</tr>
+</table>
 
 [learn-program]: https://github.com/SichangHe/learn_program
 [most-used-lang]: https://github-readme-stats.vercel.app/api/top-langs/?username=sichanghe&exclude_repo=STATS401,learn_program,Notes_Steven,mdbook_katex_template,igem-2022-dku-backup,mdbook_fancy_theme,BigDecimal-Matrix-and-column-vector-calculator-in-Java&hide=markdown,html,handlebars,css,less&layout=compact&langs_count=10
