@@ -1,8 +1,6 @@
 ### About Steven Hé (Sīchàng) 🙇🏻‍♂️
 
-<table>
-<tr>
-<td>
+<table><tr><td>
 
 - Like:
     Rust 🦀, Markdown, JavaScript, Ruby 💎
@@ -26,12 +24,7 @@ Fake "most used languages" stats not counting
 
 [![Most used languages*][most-used-lang]][most-used-lang]
 
-</td></tr>
-<tr>
-<td></td>
-<td></td>
-</tr>
-</table>
+</td></tr></table>
 
 [learn-program]: https://github.com/SichangHe/learn_program
 [most-used-lang]: https://github-readme-stats.vercel.app/api/top-langs/?username=sichanghe&exclude_repo=STATS401,learn_program,Notes_Steven,mdbook_katex_template,igem-2022-dku-backup,mdbook_fancy_theme,BigDecimal-Matrix-and-column-vector-calculator-in-Java&hide=markdown,html,handlebars,css,less&layout=compact&langs_count=10
