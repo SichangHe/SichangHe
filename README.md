@@ -27,4 +27,4 @@ Fake "most used languages" stats not counting
 </td></tr></table>
 
 [learn-program]: https://github.com/SichangHe/learn_program
-[most-used-lang]: https://github-readme-stats.vercel.app/api/top-langs/?username=sichanghe&exclude_repo=STATS401,learn_program,Notes_Steven,mdbook_katex_template,igem-2022-dku-backup,mdbook_fancy_theme,BigDecimal-Matrix-and-column-vector-calculator-in-Java&hide=markdown,html,handlebars,css,less&layout=compact&langs_count=10
+[most-used-lang]: https://github-readme-stats.vercel.app/api/top-langs/?username=sichanghe&exclude_repo=STATS401,learn_program,Notes_Steven,mdbook_katex_template,igem-2022-dku-backup,mdbook_fancy_theme,BigDecimal-Matrix-and-column-vector-calculator-in-Java&hide=jupyter%20notebook,markdown,html,handlebars,css,less&layout=compact&langs_count=10
