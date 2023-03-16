@@ -5,7 +5,7 @@
 - Like:
     Rust 🦀, Markdown, JavaScript, Ruby 💎
 - Comfortable with:
-    Python 🐍, Lua ☪️, Racket 🎾, TypeScript, HTML,
+    Python 🐍, Lua 🔵, Racket 🎾, TypeScript, HTML,
     Mandarin 🇨🇳, Cantonese 🇭🇰, English 🇬🇧
 - Quite a bit of experience with:
     Julia ஃ, Java ☕️, Elixir 💧, CSS, C
