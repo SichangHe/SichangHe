@@ -21,7 +21,7 @@ Systems programmer, invested Rustacean, Pythonista, Polyglot programmer.
 <td>
 <img height=24px title="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" />
 <img height=24px title="Lua" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" />
-<img height=24px title="Racket" src="https://plugins.jetbrains.com/files/14752/302484/icon/pluginIcon.png" />
+<img height=24px title="Racket" src="https://racket-lang.org/img/racket-logo.svg" />
 <img height=24px title="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" />
 <img height=24px title="Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" />
 <img height=24px title="HTML" src="https://cdn-icons-png.flaticon.com/512/919/919827.png" />
