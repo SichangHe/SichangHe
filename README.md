@@ -44,12 +44,12 @@ Systems programmer, invested Rustacean, Pythonista, Polyglot programmer.
 🤷
 </td>
 <td>
-<img height=24px title="Fish" src="https://miro.medium.com/v2/resize:fit:1000/1*fGp82MjJ0hwjt0XFAah3Nw.gif" />
+<img height=24px title="Fish" src="https://fishshell.com/docs/current/_static/fish.png" />
 <img height=18px title="Go" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" />
 <img height=24px title="Bash" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/1792px-Bash_Logo_black_and_white_icon_only.svg.png" />
 <img height=24px title="VimScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png" />
-<img height=24px title="Elisp" src="https://uploads-ssl.webflow.com/60416e232fe5811ea23a841c/6437f071cacaa15170a2bc3e_R.png" />
-<img height=24px title="Elisp" src="https://www.iconarchive.com/download/i105524/papirus-team/papirus-apps/emacs.ico" />
+<img height=24px title="R" src="https://uploads-ssl.webflow.com/60416e232fe5811ea23a841c/6437f071cacaa15170a2bc3e_R.png" />
+<img height=24px title="Elisp" src="https://repository-images.githubusercontent.com/327491218/a7b2a783-4f31-48a8-8eca-be643a58589c" />
 </td></tr></table><table><tr><td>
 🙁
 </td>
