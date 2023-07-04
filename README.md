@@ -1,8 +1,6 @@
-### About Steven Hé (Sīchàng) 🙇🏻‍♂️
+# Steven Hé (Sīchàng) 🙇🏻‍♂️ [(Home Page)][home-page]
 
 Systems programmer, invested Rustacean, Pythonista, Polyglot programmer.
-
-[Steven Hé (Sīchàng)'s Home Page][home-page].
 
 <table><tr><td>
 <table><tr><td>
@@ -62,11 +60,11 @@ Systems programmer, invested Rustacean, Pythonista, Polyglot programmer.
 </td>
 <td>
 
-Fake "most used languages" stats.
+Fake languages stats (updated July 4).
 
 [![Most used languages*][most-used-lang]][most-used-lang]
 
 </td></tr></table>
 
 [home-page]: https://sichanghe.github.io
-[most-used-lang]: https://github-readme-stats.vercel.app/api/top-langs/?username=sichanghe&exclude_repo=STATS401,learn_program,Notes_Steven,mdbook_katex_template,igem-2022-dku-backup,mdbook_fancy_theme,BigDecimal-Matrix-and-column-vector-calculator-in-Java&hide=jupyter%20notebook,markdown,html,handlebars,css,less&layout=compact&langs_count=10
+[most-used-lang]: https://github-readme-stats.vercel.app/api/top-langs/?username=sichanghe&exclude_repo=STATS401,learn_program,Notes_Steven,mdbook_katex_template,igem-2022-dku-backup,mdbook_fancy_theme,BigDecimal-Matrix-and-column-vector-calculator-in-Java&hide=jupyter%20notebook,markdown,html,tex,handlebars,css,less,vbscript,batchfile&layout=compact&langs_count=10
