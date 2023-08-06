@@ -1,7 +1,3 @@
-# Steven Hé (Sīchàng) 🙇🏻‍♂️ [(Home Page)][home-page]
-
-Systems programmer, invested Rustacean, Pythonista, Polyglot programmer.
-
 <table><tr><td>
 <table><tr><td>
 ❤️
@@ -12,8 +8,8 @@ Systems programmer, invested Rustacean, Pythonista, Polyglot programmer.
 <img height=24px title="Eilxir" src="https://elixir-lang.org/images/logo/logo.png" />
 <img height=24px title="JavaScript" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
 <img height=24px title="Ruby" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1200px-Ruby_logo.svg.png" />
-</td></tr></table>
-<table><tr><td>
+</td></tr>
+<tr><td>
 🌸
 </td>
 <td>
@@ -26,8 +22,8 @@ Systems programmer, invested Rustacean, Pythonista, Polyglot programmer.
 <img height=24px title="Mandarin" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/chinese-language-2693422-2235239.png" />
 <img height=24px title="Cantonese" src="https://static.thenounproject.com/png/2223127-200.png" />
 <img height=24px title="English" src="https://static.thenounproject.com/png/1454057-200.png" />
-</td></tr></table>
-<table><tr><td>
+</td></tr>
+<tr><td>
 👌
 </td>
 <td>
@@ -37,8 +33,8 @@ Systems programmer, invested Rustacean, Pythonista, Polyglot programmer.
 <img height=24px title="Svelte" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/851px-Svelte_Logo.svg.png" />
 <img height=24px title="CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
 <img height=24px title="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" />
-</td></tr></table>
-<table><tr><td>
+</td></tr>
+<tr><td>
 🤷
 </td>
 <td>
@@ -48,7 +44,8 @@ Systems programmer, invested Rustacean, Pythonista, Polyglot programmer.
 <img height=24px title="VimScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png" />
 <img height=24px title="R" src="https://uploads-ssl.webflow.com/60416e232fe5811ea23a841c/6437f071cacaa15170a2bc3e_R.png" />
 <img height=24px title="Elisp" src="https://repository-images.githubusercontent.com/327491218/a7b2a783-4f31-48a8-8eca-be643a58589c" />
-</td></tr></table><table><tr><td>
+</td></tr>
+<tr><td>
 🙁
 </td>
 <td>
@@ -61,6 +58,10 @@ Systems programmer, invested Rustacean, Pythonista, Polyglot programmer.
 <td>
 
 [![Fake languages stats][most-used-lang]][most-used-lang]
+
+Systems programmer, invested Rustacean, Pythonista, Polyglot programmer.
+
+[Steven Hé (Sīchàng)'s Home Page][home-page].
 
 </td></tr></table>
 
