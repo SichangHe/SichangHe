@@ -1,3 +1,5 @@
+<!-- markdownlint-disable first-line-h1 -->
+<!-- markdownlint-disable line-length -->
 <table><tr><td>
 <table><tr><td>
 ❤️
@@ -18,6 +20,7 @@
 <img height=24px title="Racket" src="https://racket-lang.org/img/racket-logo.svg" />
 <img height=24px title="TypeScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" />
 <img height=24px title="Kotlin" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" />
+<img height=24px title="Dart" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dart_logo.png/768px-Dart_logo.png" />
 <img height=24px title="HTML" src="https://cdn-icons-png.flaticon.com/512/919/919827.png" />
 <img height=24px title="Mandarin" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/chinese-language-2693422-2235239.png" />
 <img height=24px title="Cantonese" src="https://static.thenounproject.com/png/2223127-200.png" />
@@ -28,8 +31,9 @@
 </td>
 <td>
 <img height=18px title="LaTeX" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/2560px-LaTeX_logo.svg.png" />
+<img height=24px title="Swift" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/23-swift-512.png" />
 <img height=22px title="Julia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/1200px-Julia_Programming_Language_Logo.svg.png" />
-<img height=24px title="Java" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" />
+<img height=24px title="Java" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" />
 <img height=24px title="Svelte" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/851px-Svelte_Logo.svg.png" />
 <img height=24px title="CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
 <img height=24px title="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" />
@@ -43,7 +47,7 @@
 <img height=24px title="Bash" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/1792px-Bash_Logo_black_and_white_icon_only.svg.png" />
 <img height=24px title="VimScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png" />
 <img height=24px title="R" src="https://uploads-ssl.webflow.com/60416e232fe5811ea23a841c/6437f071cacaa15170a2bc3e_R.png" />
-<img height=24px title="Elisp" src="https://repository-images.githubusercontent.com/327491218/a7b2a783-4f31-48a8-8eca-be643a58589c" />
+<img height=24px title="Elisp" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmacsIcon.svg/1200px-EmacsIcon.svg.png" />
 </td></tr>
 <tr><td>
 🙁
