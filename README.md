@@ -31,12 +31,14 @@
 </td>
 <td>
 <img height=18px title="LaTeX" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/2560px-LaTeX_logo.svg.png" />
+<img height=22px title="SQL and PL/pgSQL" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" />
 <img height=24px title="Swift" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/23-swift-512.png" />
 <img height=22px title="Julia" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Julia_Programming_Language_Logo.svg/1200px-Julia_Programming_Language_Logo.svg.png" />
 <img height=24px title="Java" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" />
-<img height=24px title="Svelte" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/851px-Svelte_Logo.svg.png" />
+<img height=24px title="Svelte 4" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/851px-Svelte_Logo.svg.png" />
 <img height=24px title="CSS" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
 <img height=24px title="C" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" />
+<img height=24px title="Gleam" src="https://gleam.run/images/lucy/lucy.svg" />
 </td></tr>
 <tr><td>
 🤷
@@ -45,6 +47,7 @@
 <img height=24px title="Fish" src="https://fishshell.com/docs/current/_static/fish.png" />
 <img height=18px title="Go" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" />
 <img height=24px title="Bash" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/1792px-Bash_Logo_black_and_white_icon_only.svg.png" />
+<img height=23px title="Erlang" src="https://static-00.iconduck.com/assets.00/erlang-icon-2048x1800-3tr824jw.png" />
 <img height=24px title="VimScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png" />
 <img height=24px title="R" src="https://uploads-ssl.webflow.com/60416e232fe5811ea23a841c/6437f071cacaa15170a2bc3e_R.png" />
 <img height=24px title="Elisp" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmacsIcon.svg/1200px-EmacsIcon.svg.png" />
@@ -61,7 +64,8 @@
 </td>
 <td>
 
-[![Fake languages stats][most-used-lang]][most-used-lang]
+[![Fake languages stats
+(most owned code in repositories)][most-used-lang]][most-used-lang]
 
 Systems programmer, invested Rustacean, Pythonista, Polyglot programmer.
 
