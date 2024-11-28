@@ -5,7 +5,7 @@
 ❤️
 </td>
 <td>
-<img height=24px title="Rust" src="https://static-00.iconduck.com/assets.00/rust-icon-512x511-cfvdvrfr.png" />
+<img height=24px title="Rust" src="https://rust-lang.org/logos/rust-logo-512x512.png" />
 <img height=24px title="Markdown" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/2560px-Markdown-mark.svg.png" />
 <img height=24px title="Eilxir" src="https://elixir-lang.org/images/logo/logo.png" />
 <img height=24px title="JavaScript" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" />
@@ -47,7 +47,7 @@
 <img height=24px title="Fish" src="https://fishshell.com/docs/current/_static/fish.png" />
 <img height=18px title="Go" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" />
 <img height=24px title="Bash" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/1792px-Bash_Logo_black_and_white_icon_only.svg.png" />
-<img height=23px title="Erlang" src="https://static-00.iconduck.com/assets.00/erlang-icon-2048x1800-3tr824jw.png" />
+<img height=23px title="Erlang" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Erlang_logo.svg/1168px-Erlang_logo.svg.png" />
 <img height=24px title="VimScript" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png" />
 <img height=24px title="R" src="https://uploads-ssl.webflow.com/60416e232fe5811ea23a841c/6437f071cacaa15170a2bc3e_R.png" />
 <img height=24px title="Elisp" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/EmacsIcon.svg/1200px-EmacsIcon.svg.png" />
@@ -64,8 +64,8 @@
 </td>
 <td>
 
-[![Fake languages stats
-(most owned code in repositories)][most-used-lang]][most-used-lang]
+[![Fake languages stats (most owned code in
+repositories)][most-used-lang]][most-used-lang]
 
 Systems programmer, invested Rustacean, Pythonista, Polyglot programmer.
 
