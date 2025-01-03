@@ -64,7 +64,7 @@
 </td>
 <td>
 
-![Most committed languages in public GitHub
+![Most owned languages in public GitHub
 repositories](https://raw.githubusercontent.com/SichangHe/gh_metrics/main/github-metrics.svg)
 
 Systems programmer, invested Rustacean, Pythonista, Polyglot programmer.
