@@ -64,8 +64,8 @@
 </td>
 <td>
 
-[![Fake languages stats (most owned code in
-repositories)][most-used-lang]][most-used-lang]
+![Most committed languages in public GitHub
+repositories](https://raw.githubusercontent.com/SichangHe/gh_metrics/main/github-metrics.svg)
 
 Systems programmer, invested Rustacean, Pythonista, Polyglot programmer.
 
@@ -74,4 +74,3 @@ Systems programmer, invested Rustacean, Pythonista, Polyglot programmer.
 </td></tr></table>
 
 [home-page]: https://sichanghe.github.io
-[most-used-lang]: https://raw.githubusercontent.com/SichangHe/gh_metrics/main/github-metrics.svg
