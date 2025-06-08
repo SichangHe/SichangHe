@@ -61,15 +61,15 @@
 <img height=24px title="C++" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
 </td></tr></table>
 
+Polyglot systems programmer; invested Rustacean, Pythonista.
+
+[Steven Hé (Sīchàng)'s Home Page][home-page].
+
 </td>
 <td>
 
-![Most owned languages in public GitHub
-repositories](https://raw.githubusercontent.com/SichangHe/gh_metrics/main/github-metrics.svg)
-
-Systems programmer, invested Rustacean, Pythonista, Polyglot programmer.
-
-[Steven Hé (Sīchàng)'s Home Page][home-page].
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sichanghe&langs_count=14&layout=compact&exclude_repo=CoreMLProto,reproduce_tensorflow_tensorflow_issue_61654,STATS401,learn_program,rails_tutorial,Notes_Steven,mdbook_katex_template,igem-2022-dku-backup,mdbook_fancy_theme,BigDecimal-Matrix-and-column-vector-calculator-in-Java&hide=Batchfile,CSS,Handlebars,HTML,Jupyter%20Notebook,Less,Tex,VBScript,Markdown,Shell" alt="Most owned languages in public GitHub repositories" title="Most owned languages in public GitHub repositories" style="max-width: 100%;">
 
 </td></tr></table>
 
